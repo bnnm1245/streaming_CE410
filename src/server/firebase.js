@@ -11,7 +11,7 @@ export const db = firebase;
 
 var firepadRef = firebase.database().ref();
 
-export const userName = prompt("Nhap ten cua ban vao:");
+export const userName = prompt("Nhap ten cua ban vao di:");
 const urlparams = new URLSearchParams(window.location.search);
 const roomId = urlparams.get("id");
 
