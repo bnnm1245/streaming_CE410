@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAj8TEq0ExBNQcgLmaBjOAmSxxbHq9Mqag", // Add API Key
-  databaseURL:"https://streamiing-8d647-default-rtdb.asia-southeast1.firebasedatabase.app/" // Add databaseURL
+  apiKey: "AIzaSyALjJ0BVEcqbzMtP-BvRKb5TxFR-iw_EhQ", // Add API Key
+  databaseURL:"https://streamce410-default-rtdb.asia-southeast1.firebasedatabase.app/" // Add databaseURL
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
